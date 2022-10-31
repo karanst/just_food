@@ -1,0 +1,142 @@
+{
+  "project_info": {
+    "project_number": "52927326191",
+    "project_id": "enter-market-a84c9",
+    "storage_bucket": "enter-market-a84c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52927326191:android:ffa0d936cd2db2ad9eb81a",
+        "android_client_info": {
+          "package_name": "com.enter_market_vendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52927326191-n68239abkqtba26gkc1uia5gqadteauh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.enter_market_vendor",
+            "certificate_hash": "9cb771f3d5fc1a9c7ebcc52b17cfa705b6a067e5"
+          }
+        },
+        {
+          "client_id": "52927326191-ichu71e602u3r6ehp1jsks2v79gk5olr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDElYEsnhgZmovVK1zYPcJFPpTFe3Bao-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52927326191-ichu71e602u3r6ehp1jsks2v79gk5olr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "52927326191-i3an41unqp4dd531pcb36m8qanahuu7s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.entermarket"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52927326191:android:cd7beb4c1a5b6b4e9eb81a",
+        "android_client_info": {
+          "package_name": "com.entermarket.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52927326191-5j94l8g7v10p2p14vpggumplck5li2fh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.entermarket.user",
+            "certificate_hash": "fbdc74764999339057153522ef65ce4d57c9c36f"
+          }
+        },
+        {
+          "client_id": "52927326191-ichu71e602u3r6ehp1jsks2v79gk5olr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDElYEsnhgZmovVK1zYPcJFPpTFe3Bao-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52927326191-ichu71e602u3r6ehp1jsks2v79gk5olr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "52927326191-i3an41unqp4dd531pcb36m8qanahuu7s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.entermarket"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52927326191:android:1b35d7bd7eab02539eb81a",
+        "android_client_info": {
+          "package_name": "com.farmer.first"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52927326191-2ee1ap97u4lolhns93d3ksk6n35le21g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.farmer.first",
+            "certificate_hash": "fbdc74764999339057153522ef65ce4d57c9c36f"
+          }
+        },
+        {
+          "client_id": "52927326191-ichu71e602u3r6ehp1jsks2v79gk5olr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDElYEsnhgZmovVK1zYPcJFPpTFe3Bao-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52927326191-ichu71e602u3r6ehp1jsks2v79gk5olr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "52927326191-i3an41unqp4dd531pcb36m8qanahuu7s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.entermarket"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
